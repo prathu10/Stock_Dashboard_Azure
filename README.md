@@ -57,5 +57,9 @@ Select "Azure SQL Database"
 Enter your server and database credentials
 Import and visualize data as desired
 
+ ## Dashboard Preview
+ 
+
+
 Connect with me on [LinkedIn](https://www.linkedin.com/in/prathsonawane/) — feel free to reach out with any questions, suggestions, or if you'd like to collaborate on adding new features!
 
