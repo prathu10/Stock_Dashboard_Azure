@@ -35,10 +35,10 @@ This real-world project enables automated stock data retrieval and visualization
    cd your-repo-name
 ```
 2. **Create and configure a .env file**
-SQL_SERVER=your_server_name
-SQL_DATABASE=your_database_name
-SQL_USERNAME=your_username
-SQL_PASSWORD=your_password
+- SQL_SERVER=your_server_name
+- SQL_DATABASE=your_database_name
+- SQL_USERNAME=your_username
+- SQL_PASSWORD=your_password
 
 3. **Install dependencies**
 pip install -r requirements.txt (to install all dependencies at once)
