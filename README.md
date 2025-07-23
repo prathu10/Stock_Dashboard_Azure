@@ -1,7 +1,7 @@
 # 💰Stock Market Dashboard with Real-Time Data
 This project is an end-to-end data analytics pipeline that collects real-time and historical stock market data using Yahoo Finance API, stores it in a secure Azure SQL database, and visualizes key market insights through an interactive Power BI dashboard.
 
- ##  Project Overview
+ ## 🔄 Project Overview
 This real-world project enables automated stock data retrieval and visualization using the following technologies:
 
 - **Yahoo Finance API** – for fetching intraday, daily, weekly, monthly, splits and dividend stock market data
