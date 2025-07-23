@@ -31,7 +31,7 @@ This real-world project enables automated stock data retrieval and visualization
  ##  Setup Instructions
  1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/prathu10/Stock_Dashboard_Azure.git
    cd your-repo-name
 ```
 2. **Create and configure a .env file**
