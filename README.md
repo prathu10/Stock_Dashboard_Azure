@@ -58,7 +58,13 @@ Enter your server and database credentials
 Import and visualize data as desired
 
  ## Dashboard Preview
- 
+
+ <p align="center">
+  <img src="Images/dashboard 1.jpg" width="1050" alt="Dashboard"/>
+</p>
+<p align="center">
+  <img src="Images/dashboard 2.jpg" width="1050" alt="Dashboard"/>
+</p>
 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/prathsonawane/) — feel free to reach out with any questions, suggestions, or if you'd like to collaborate on adding new features!
