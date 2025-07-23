@@ -1,0 +1,7 @@
+pandas — for data manipulation
+
+pyodbc — for Azure SQL connection
+
+python-dotenv — to load .env environment variables (installed via pip install python-dotenv)
+
+yfinance — for fetching stock data
