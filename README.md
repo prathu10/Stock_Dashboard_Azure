@@ -1,14 +1,14 @@
-# Stock Market Dashboard with Real-Time Data
+# 💰Stock Market Dashboard with Real-Time Data
 This project is an end-to-end data analytics pipeline that collects real-time and historical stock market data using Yahoo Finance API, stores it in a secure Azure SQL database, and visualizes key market insights through an interactive Power BI dashboard.
 
- ##  Project Overview
+ ## 🔄 Project Overview
 This real-world project enables automated stock data retrieval and visualization using the following technologies:
 
 - **Yahoo Finance API** – for fetching intraday, daily, weekly, monthly, splits and dividend stock market data
 - **Azure SQL Database** – for storing and managing time-series stock data in the cloud
 - **Power BI** – for building live dashboards and business intelligence reports connected to Azure SQL
 
- ##  Features
+ ## 📊 Features
 -  Real-time stock price collection (e.g., Open, High, Low, Close, Volume)
 -  Supports intraday, daily, weekly and monthly intervals
 -  Cloud-based storage using Azure SQL for centralized access and scalability
@@ -16,7 +16,7 @@ This real-world project enables automated stock data retrieval and visualization
 -  Scheduled or on-demand data refresh support
 -  **Custom DAX measures** created to calculate 52-week high/low, daily changes, average returns, and other KPIs
 
-  ##  Tech Stack
+  ## 🧰 Tech Stack
 
 | Component       | Technology                                                      |
 |-----------------|-----------------------------------------------------------------|
@@ -58,8 +58,14 @@ Enter your server and database credentials
 Import and visualize data as desired
 
  ## Dashboard Preview
- 
+
+ <p align="center">
+  <img src="Images/dashboard 1.jpg" width="1050" alt="Dashboard"/>
+</p>
+<p align="center">
+  <img src="Images/dashboard 2.jpg" width="1050" alt="Dashboard"/>
+</p>
 
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/prathsonawane/) — feel free to reach out with any questions, suggestions, or if you'd like to collaborate on adding new features!
+## 🙌 Connect with me on [LinkedIn](https://www.linkedin.com/in/prathsonawane/) — feel free to reach out with any questions, suggestions, or if you'd like to collaborate on adding new features!
 
