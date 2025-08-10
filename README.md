@@ -68,5 +68,9 @@ Import and visualize data as desired
 </p>
 
 
-## 🙌 Connect with me on [LinkedIn](https://www.linkedin.com/in/prathsonawane/) — feel free to reach out with any questions, suggestions, or if you'd like to collaborate on adding new features!
+## 🙌 Connect with me on [LinkedIn] — feel free to reach out with any questions, suggestions, or if you'd like to collaborate on adding new features!
+## Author: Prathamesh Sonawane
+Contact: [LinkedIn](https://www.linkedin.com/in/prathsonawane/) | prathamesh4402@gmail.com
+
+
 
