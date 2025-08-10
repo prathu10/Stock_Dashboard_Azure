@@ -28,7 +28,7 @@ allowed_columns = [
 ]
 
 # Path to folder with *_info.json files
-json_folder = "D:/PROJECTS/Automated Stock Market Dashboard with Real-Time Data and Azure Data Stack/PROJECT/Scripts/data/fundamentals"
+json_folder = r"F:\PROJECTS\Stock Market Dashboard with Real-Time Data and Azure Data Stack\PROJECT\Scripts\data\fundamentals"
 
 # Loop through all *_info.json files
 for filename in os.listdir(json_folder):
