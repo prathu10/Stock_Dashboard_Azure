@@ -6,6 +6,7 @@ This real-world project enables automated stock data retrieval and visualization
 
 - **Yahoo Finance API** – for fetching intraday, daily, weekly, monthly, splits and dividend stock market data
 - **Azure SQL Database** – for storing and managing time-series stock data in the cloud
+- **Azure Data Studio** – for querying and managing the Azure SQL Database with a modern, cross-platform UI
 - **Power BI** – for building live dashboards and business intelligence reports connected to Azure SQL
 
  ## 📊 Features
