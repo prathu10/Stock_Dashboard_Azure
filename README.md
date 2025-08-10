@@ -23,6 +23,7 @@ This real-world project enables automated stock data retrieval and visualization
 | Data Source     | [Yahoo Finance API](https://pypi.org/project/yfinance/)         |
 | Backend         | Python, Pandas                                                  |
 | Database        | Microsoft Azure SQL Database                                    |
+| DB Management   | Azure Data Studio (for querying and managing Azure SQL)
 | Dashboard       | Microsoft Power BI                                              |
 | Deployment      | Azure Cloud Services                                            |
 | Security        | `.env` file for storing credentials (excluded via `.gitignore`) |
