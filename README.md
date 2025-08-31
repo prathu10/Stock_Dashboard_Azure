@@ -6,7 +6,13 @@ This real-world project enables automated stock data retrieval and visualization
 
 - **Yahoo Finance API** – for fetching intraday, daily, weekly, monthly, splits and dividend stock market data
 - **Azure SQL Database** – for storing and managing time-series stock data in the cloud
+- **Azure Data Studio** – for querying and managing the Azure SQL Database with a modern, cross-platform UI
 - **Power BI** – for building live dashboards and business intelligence reports connected to Azure SQL
+
+## 📐 Data Pipeline Architecture
+<p align="center">
+  <img src="Images/stock_pipeline_simple.png" width="900" alt="Data Pipeline"/>
+</p>
 
  ## 📊 Features
 -  Real-time stock price collection (e.g., Open, High, Low, Close, Volume)
@@ -23,6 +29,7 @@ This real-world project enables automated stock data retrieval and visualization
 | Data Source     | [Yahoo Finance API](https://pypi.org/project/yfinance/)         |
 | Backend         | Python, Pandas                                                  |
 | Database        | Microsoft Azure SQL Database                                    |
+| DB Management   | Azure Data Studio (for querying and managing Azure SQL)
 | Dashboard       | Microsoft Power BI                                              |
 | Deployment      | Azure Cloud Services                                            |
 | Security        | `.env` file for storing credentials (excluded via `.gitignore`) |
@@ -67,5 +74,9 @@ Import and visualize data as desired
 </p>
 
 
-## 🙌 Connect with me on [LinkedIn](https://www.linkedin.com/in/prathsonawane/) — feel free to reach out with any questions, suggestions, or if you'd like to collaborate on adding new features!
+## 🙌 Connect with me on [LinkedIn] — feel free to reach out with any questions, suggestions, or if you'd like to collaborate on adding new features!
+## Author: Prathamesh Sonawane
+Contact: [LinkedIn](https://www.linkedin.com/in/prathsonawane/) | prathamesh4402@gmail.com
+
+
 
