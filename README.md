@@ -11,7 +11,7 @@ This real-world project enables automated stock data retrieval and visualization
 
 ## 📐 Data Pipeline Architecture
 <p align="center">
-  <img src="Images/stock_pipeline_simple.png" width="900" alt="Data Pipeline"/>
+  <img src="Images/data pipeline architecture.png" width="900" alt="Data Pipeline"/>
 </p>
 
  ## 📊 Features
