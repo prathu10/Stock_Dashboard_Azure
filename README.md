@@ -9,6 +9,11 @@ This real-world project enables automated stock data retrieval and visualization
 - **Azure Data Studio** – for querying and managing the Azure SQL Database with a modern, cross-platform UI
 - **Power BI** – for building live dashboards and business intelligence reports connected to Azure SQL
 
+## 📐 Data Pipeline Architecture
+<p align="center">
+  <img src="Images/stock_pipeline_simple.png" width="900" alt="Data Pipeline"/>
+</p>
+
  ## 📊 Features
 -  Real-time stock price collection (e.g., Open, High, Low, Close, Volume)
 -  Supports intraday, daily, weekly and monthly intervals
